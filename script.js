@@ -76,9 +76,9 @@ document.querySelectorAll('.primary-button, .cta-button').forEach(button => {
             ripple.remove();
         }, 600);
         
-        // Simulate download action
-        alert('Thank you for your interest in HelpGPT! This is a demo landing page. In a real scenario, this would initiate the download or redirect to an app store.');
-    });
+    //     // Simulate download action
+    //     alert('Thank you for your interest in HelpGPT! This is a demo landing page. In a real scenario, this would initiate the download or redirect to an app store.');
+    // });
 });
 
 // Add ripple animation CSS
